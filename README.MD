@@ -49,6 +49,3 @@ Personally, (bare with me here) I made myself a folder called **luvit-2.17.0** t
 5. Replace the `PUT_TOKEN_HERE` field at the end of the file with your Discord Application's Bot token.
 5. Run bot via `luvit bot.lua`!
 6. Have fun.
-
-### License
-MIT
